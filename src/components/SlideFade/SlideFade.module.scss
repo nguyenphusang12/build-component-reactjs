@@ -1,0 +1,12 @@
+.list {
+  display: flex;
+  user-select: none;
+  position: relative;
+  -webkit-user-select: none;
+  transition: all 0.2s;
+}
+.WrapList {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+}
